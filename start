@@ -1,5 +1,5 @@
 # this isn't my first code
-# print("I love Chicken")
+print("I love Chicken")
 
 name = "Lakshay"
 print(f"My name is {name}")
