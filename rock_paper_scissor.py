@@ -41,3 +41,4 @@ while True:
 
 print(f"You Won {user_score}")
 print(f"Computer Won {computer_score} times")        
+print("Thx for Playing :)")
